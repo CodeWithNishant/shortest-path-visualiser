@@ -1,5 +1,5 @@
 import "./App.css";
-import PathVisualizer from "./components/visualiser";
+import PathVisualizer from "./PathVisualizer";
 
 function App() {
   return (
